@@ -1,1 +1,1 @@
-# Image Segmentation Split And Merge
+# Split and Merge segmentation
